@@ -2,6 +2,7 @@
 
 > Click :star:if you like the project. Pull Request are highly appreciated. 
 
+
 #### Q. Write a MapReduce program to add all the elements in a file. 
 #### Q. What is the difference between hashset and hashmap ? 
 #### Q. Write a Hive program to find the number of employees department wise in an organization. 
