@@ -1,3 +1,45 @@
+## Apache Spark Interview Questions and Answers
+
+
+
+#### Q. What is mechanism by which you can resubmit failed spark job automatically?
+#### Q. What is Left Semi Join, Left Anti Join in spark?
+#### Q. How Spark ensures fault tolerance ?
+#### Q. What is the difference between GroupByKey and ReduceByKey?
+#### Q. What is wide and narrow transformations?/ when does stage boundary occurs?
+#### Q. What is broadcast variable and accumulator?
+#### Q. How to broadcast small dataframe?
+#### Q. What is RDD?
+#### Q. How to create RDD?
+#### Q. Have you done any Optimization in spark ?
+#### Q. How to read XML file using MapReduce?
+#### Q. What is difference between HiveQL and SparkSQL?
+#### Q. What is difference between SQL and HiveQL?
+#### Q. What is difference between RDD and DATAFRAME and dataset? What is difference between Rdd and Dataset?
+#### Q. What is DAG and what is the use of it?
+#### Q. Given , we have transformation,. actions, transformations again and one more action, how many DAGS will be there? / WHat is output of transformation and actions?
+#### Q. What are the options that can be specified along with spark-submit script for memory allocation?/ How do we specify class while submitting application /How will you specify parallelism in spark?
+#### Q. What are various deploy modes in spark-submit ?
+#### Q. Difference between yarn-client and yarn-cluster mode?
+#### Q. What is your understanding of specifying “total-executor cores “ while submitting spark job
+#### Q. How to dynamically control number of executors?
+#### Q. What is difference between partition and partitioner?
+#### Q. How to find spark version
+#### Q. If on cluster, you are getting memory error, how will you resolve it?
+#### Q. What is transformation and what is action? Difference between them?
+#### Q. What transformations you have used?
+#### Q. What actions you have used?
+#### Q. Difference between apache spark and apache storm?
+#### Q. What is Lazy Evaluation in Apache Spark?
+#### Q. What is the difference between cache and persist?
+#### Q. Have you encountered memory errors, how you resolved it? Like Spark java.lang.OutOfMemoryError: Java heap space
+#### Q. How to find delta between two files?
+#### Q. How to find difference between two dataframes
+#### Q. Explain what oozie is?
+#### Q. Have you faced any heap /memory issues in spark?
+#### Q. How does spark streaming works? Explain how you would find max value within a streaming rdd.
+#### Q. What is the basic component of spark streaming?
+
 #### What is Apache Spark?
 Apache Spark is “an open source cluster computing framework originally developed in the AMPLab at University of California, Berkeley but was later donated to the Apache Software Foundation where it remains today. In contrast to Hadoop’s two-stage disk-based MapReduce paradigm, Spark’s multi-stage in-memory primitives provides performance up to 100 times faster for certain applications. By allowing user programs to load data into a cluster’s memory and query it repeatedly, Spark is well-suited to machine learning algorithms.”
 Spark is essentially a fast and flexible data processing framework. It has an advanced execution engine supporting cyclic data flow with in-memory computing functionalities. Apache Spark can run on Hadoop, as a standalone system or on the cloud. Spark is capable of accessing diverse data sources including HDFS, HBase, Cassandra among others
