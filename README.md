@@ -2,7 +2,17 @@
 
 > Click :star:if you like the project. Pull Request are highly appreciated. 
 
-  
+#### Q. Tell us about your cluster?
+#### Q. What is shuffling?
+#### Q. What are optimization techniques for hadoop?
+#### Q. When more shuffling is better?
+#### Q. How to handle small files in hadoop?
+#### Q. What is federation mode in hadoop?
+#### Q. What are different nodes in hadoop cluster?
+#### Q. What is difference between backup node and secondary namenode?
+#### Q. What is DistCp?
+#### Q. What is Speculative execution?
+#### Q. For a file of size MB how many blocks will be created on HDFS?
 #### Q. Write a MapReduce program to add all the elements in a file. 
 #### Q. What is the difference between hashset and hashmap ? 
 #### Q. Write a Hive program to find the number of employees department wise in an organization. 
