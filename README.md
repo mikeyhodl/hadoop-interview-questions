@@ -2,6 +2,11 @@
 
 > Click :star:if you like the project. Pull Request are highly appreciated. 
 
+#### Q. Write a MapReduce program to add all the elements in a file. 
+#### Q. What is the difference between hashset and hashmap ? 
+#### Q. Write a Hive program to find the number of employees department wise in an organization. 
+#### Q. How will you read a CSV file of 10GB and store it in the database as it is in just few seconds ? 
+#### Q. How will a file of 100MB be stored in Hadoop ? 
 #### Q. What is Difference between Secondary namenode, Checkpoint namenode & backupnod Secondary Namenode, a poorly named component of hadoop.
 #### Q. What are the Side Data Distribution Techniques.
 #### Q. What is shuffleing in mapreduce?
