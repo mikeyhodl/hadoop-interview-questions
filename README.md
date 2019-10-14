@@ -1,6 +1,6 @@
 ## Hadoop Interview Questions
 
-> Click :star:if you like the project. Pull Request are highly appreciated. 
+*Click :star2: if you like the project. Pull Request are highly appreciated.* 
 
 #### Q. Tell us about your cluster?
 #### Q. What is shuffling?
