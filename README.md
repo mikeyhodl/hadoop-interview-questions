@@ -5,14 +5,13 @@
 
 ### Table of Contents
 
+* [Hadoop Commands](hadoop-commands.md)
 * [Apache Hive Interview Questions](apache-hive-questions.md)
 * [Apache OOZIE Interview Questions](apache-oozie-questions.md)
 * [Apache Spark Interview Questions](apache-spark-questions.md)
-* [Hadoop Commands](hadoop-commands.md)
 
 
 
-#### Q. Tell us about your cluster?
 #### Q. What is shuffling?
 #### Q. What are optimization techniques for hadoop?
 #### Q. When more shuffling is better?
