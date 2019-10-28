@@ -32,3 +32,9 @@
 | 28.   |cacheadmin           |configure the HDFS cache|
 | 29.   |mover                |run a utility to move block replicas across storage types|
 | 30.   |storagepolicies      |list/get/set block storage policies |
+| 31.   |start-all.sh         |Starts all Hadoop daemons, the namenode, datanodes, the jobtracker and tasktrackers.|
+| 32.   |stop-all.sh          |Stops all Hadoop daemons.|
+| 33.   |start-mapred.sh      |Starts the Hadoop Map/Reduce daemons, the jobtracker and tasktrackers.|
+| 34.   |stop-mapred.sh       |Stops the Hadoop Map/Reduce daemons.|
+| 35.   |start-dfs.sh         |Starts the Hadoop DFS daemons, the namenode and datanodes.|
+| 36.   |stop-dfs.sh          |Stops the Hadoop DFS daemons.|
